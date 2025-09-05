@@ -25,4 +25,4 @@ A basic web-based calculator built with HTML, CSS, and JavaScript.
 
 ## License
 
-This project is open source and
+This project is open source and available free in this repository.
